@@ -1,5 +1,11 @@
 ### Hi ! Que bom ter você por aqui! 👋
 
+Meu nome é Suhellyn. 
+
+Graduando Análise e Desenvolvimento de Sistemas pela UNESA - Universidade Estácio de Sá. 
+
+Futura desenvolvedora FullStack .
+
 <!--
 **IInterface/IInterface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
